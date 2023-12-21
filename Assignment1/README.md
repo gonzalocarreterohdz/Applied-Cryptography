@@ -1,0 +1,1 @@
+Analysis of different given ciphertexts to detect the historical cipher used on them. Used matplotlib to perform a frequency analysis on the ciphertexts. Decryption of some of the ciphertexts after performing the analysis.
